@@ -1,0 +1,8 @@
+.my-button {
+    color: white !important;
+    background-color: black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 10px 20px ;
+}

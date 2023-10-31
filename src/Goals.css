@@ -1,0 +1,20 @@
+body {
+    background-color: blueviolet;
+}
+
+h1 {
+    font-style: italic;
+}
+
+ul {
+    list-style-type: none;
+}
+
+button {
+    color: white ;
+    background-color: black;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    padding: 10px 10px ;
+}
